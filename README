@@ -1,0 +1,16 @@
+MsPacMan
+========
+University of Essex semi-annual AI challenge
+pacman-vs-ghosts.net
+
+Goal
+====
+Beat the starter package
+
+Strategy
+========
+This is the first competition that includes ghost entries, so I'm gonna put most of my efforts there, I think.  I'm probably just going to use an obfuscated diffusion algorithm for the ghosts, ms. pacman will most likely be the starter plus a bunch of edge case hacks.  That should at least accomplish the goal.
+
+Entry Name
+==========
+magnum
